@@ -1,2 +1,2 @@
 # pobriFlix
-Movies para pobres projeto beneficente
+Movies para pessoas de baixa renda projeto beneficente
